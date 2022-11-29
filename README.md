@@ -43,6 +43,9 @@ $ yarn run start:prod
 
 - husky pre-commit hook checks if code is formatted and linting has no issues.
 
+## Todo
+
+- add docker config for development & debugging.
 
 ## License
 
