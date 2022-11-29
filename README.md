@@ -41,7 +41,7 @@ $ yarn run start:prod
 
 - name test files with '.spec.ts' suffix to exclude them in production build.
 
-- husky pre-commit hook checks if code is formatted and linting has no issues, pre-push hook checks if all tests pass.
+- husky pre-commit hook checks if code is formatted and linting has no issues.
 
 
 ## License
