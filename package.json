@@ -13,7 +13,7 @@
     "build": "rimraf ./dist && tsc -p tsconfig.build.json",
     "check-formatting": "prettier --check src/**/*.ts",
     "test": "jest",
-    "start:dev": "rimraf ./dist && tsc-watch -p tsconfig.build.json --onSuccess \"nodemon --inspect ./dist/main.js\"",
+    "start:dev": "rimraf ./dist && tsc-watch -p tsconfig.build.json --onSuccess \"nodemon --inspect=0.0.0.0 ./dist/main.js\"",
     "test-cov": "jest --coverage",
     "start:prod": "node ./dist/main.js"
   },
