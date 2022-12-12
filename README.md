@@ -3,7 +3,7 @@ Boilerplate for typical express backend application with typescript and standard
 
 ## Configuration
 
-- [Node](https://nodejs.org/en/docs/)
+- [Node](https://nodejs.org/en/docs/) (>= 16.x.x)
 - [Yarn](https://yarnpkg.com/cli/install)
 - [Express](https://expressjs.com/en/4x/api.html)
 - [Prettier](https://prettier.io/docs/en/index.html)
