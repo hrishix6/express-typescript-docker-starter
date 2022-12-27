@@ -1,4 +1,4 @@
-# Express - TypeScript - Starter
+# Express - TypeScript - Docker - Starter
 Boilerplate for typical express backend application with typescript and standard code quality tooling configured.
 
 ## Configuration
